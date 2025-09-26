@@ -1,0 +1,22 @@
+# Flutter/Dart files
+*.g.dart
+*.freezed.dart
+*.mocks.dart
+*.part.dart
+build/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+pubspec.lock
+
+# Firebase/Google Services
+android/app/google-services.json
+ios/Runner/GoogleService-Info.plist
+lib/firebase_options.dart
+
+# IDE and misc
+.idea/
+*.iml
+.vscode/
+*.log
